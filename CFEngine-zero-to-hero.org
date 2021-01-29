@@ -259,7 +259,7 @@ about itself which cooperate toward an end.
 
 - [[https://www.amazon.com/Thinking-Promises-Mark-Burgess-ebook/dp/B01092PYG8/ref=pd_cp_351_2?ie=UTF8&refRID=P8MMWZ7H2X6B52JEAHNB][Thinking in Promises]]
 - [[https://www.amazon.com/Search-Certainty-Science-Information-Infrastructure-ebook/dp/B00WL6SPR6/ref=pd_sim_351_3?ie=UTF8&dpID=61EbYHkv7NL&dpSrc=sims&preST=_OU01_AC_UL160_SR107%252C160_&refRID=R1NF58A2W7Z570MN6V3P][In Search of Certainty]]
-- [[https://www.amazon.com/Promise-Theory-Principles-Applications-1/dp/1495437779/][Promise Theory: Principals and Applicationcs]]
+- [[https://www.amazon.com/Promise-Theory-Principles-Applications-1/dp/1495437779/][Promise Theory: Principles and Applications]]
 
 [[./media/thinking-in-promises-cover.jpg]] [[./media/in-search-of-certainty-cover.png]]
 
